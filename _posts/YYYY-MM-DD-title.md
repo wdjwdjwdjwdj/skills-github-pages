@@ -1,6 +1,6 @@
 ---
 title: "YOUR-TITLE"
-date: 2026-02-02
+date: YYYY-MM-DD
 ---
 ---
 title: "my-first-post"
